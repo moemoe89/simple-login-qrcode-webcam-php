@@ -1,4 +1,4 @@
-# simple-login-qrcode-webcam-php
+# simple-login-qrcode-webcam-php-js
 Just simple login using QR Code Scanner with Webcam in PHP modify from  ([https://github.com/LazarSoft/jsqrcode ](https://github.com/LazarSoft/jsqrcode )).
 
 ![qr-code](momo-qrcode.png)
